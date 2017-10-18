@@ -1,0 +1,137 @@
+*{
+	box-sizing: border-box;
+}
+
+
+
+#start{
+	width: 25%;
+    margin-left: 38%;
+}
+
+body{
+	background-image: url(http://i0.wp.com/www.stunningmesh.com/wp-content/uploads/2011/12/awesome-guitar-wallpapers-designs-large-42.jpg);
+	background-size: 100%;
+}
+
+#background{
+	background-image: url(blue_background.jpg);
+	background-size: : 100%;
+	margin-top: 5%;
+    margin-bottom: 2%;
+    padding: 3%;
+    border: solid 3px white;
+}
+
+#musicButton{
+	background-image: url(blue_background.jpg);
+	background-size: : 100%;
+	margin-bottom: 5%;
+    padding: 3%;
+    border: solid 3px white;
+
+}
+
+h2{
+	margin-top: 2%;
+	font-family: 'Shadows Into Light', cursive;
+	color: white;
+	text-shadow: 2px 2px black;
+}
+
+ p{
+	margin-top: 2%;
+	font-family: 'Shadows Into Light', cursive;
+	color: white;
+	text-shadow: 2px 2px black;
+	font-size: 19px;
+}
+
+#question{
+	line-height: 126%;
+
+}
+
+#picture{
+	margin-top: 2%;
+}
+
+h1{
+	font-weight: 800;
+    text-decoration: underline;
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+	text-shadow: 2px 2px black;
+	
+}
+
+#correctAnswer{
+	font-size: 24px;
+}
+h3 {
+	font-size: 25px;
+    font-weight: 800;
+    text-decoration: underline;
+    font-family: 'Shadows Into Light', cursive;
+	color: white;
+	text-shadow: 2px 2px black;
+}
+
+#option1:hover {
+	background-color: lightgrey;
+	color: black;
+	text-shadow: 2px 2px white;
+	margin-left: 30%;
+	margin-right:30%;
+	border:solid 2px black;
+
+}
+
+#option2:hover {
+	background-color: lightgrey;
+	color: black;
+	text-shadow: 2px 2px white;
+	margin-left: 30%;
+	margin-right:30%;
+	border:solid 2px black;
+
+}
+
+#option3:hover {
+	background-color: lightgrey;
+	color: black;
+	text-shadow: 2px 2px white;
+	margin-left: 30%;
+	margin-right:30%;
+	border:solid 2px black;
+
+}
+
+#option4:hover {
+	background-color: lightgrey;
+	color: black;
+	text-shadow: 2px 2px white;
+	margin-left: 30%;
+	margin-right:30%;
+	border:solid 2px black;
+
+}
+
+#robertJohnson{
+	margin-top: 3%;
+}
+
+#mississippiFredMcDowell{
+	margin-top: 5%;
+}
+
+#bigMammaThorton{
+	margin-top: 5%;
+}
+
+#hounddogTaylor{
+	margin-top: -10%;
+}
+
+
+
