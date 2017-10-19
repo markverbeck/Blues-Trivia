@@ -17,7 +17,7 @@ body{
 #background{
 	background-image: url(blue_background.jpg);
 	background-size: : 100%;
-	margin-top: 5%;
+	margin-top: 2%;
     margin-bottom: 2%;
     padding: 3%;
     border: solid 3px white;
@@ -117,21 +117,41 @@ h3 {
 
 }
 
-#robertJohnson{
-	margin-top: 3%;
-}
 
 #mississippiFredMcDowell{
-	margin-top: 5%;
+	margin-top: 18%;
 }
 
 #bigMammaThorton{
-	margin-top: 5%;
+	margin-top: 18%;
 }
 
-#hounddogTaylor{
-	margin-top: -10%;
+
+
+.pMargin{
+	margin-top: 24%;
 }
 
+@media (max-width: 1200px) {
+	
+	#mississippiFredMcDowell{
+		margin-top: 0;
+	}
+
+	#bigMammaThorton{
+		margin-top: 0;
+	}
+
+	.pMargin{
+		margin-top: 0;
+	}
+
+	body{
+		
+		background-size: initial;
+		
+		 }
+	
+}
 
 
